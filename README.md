@@ -6,11 +6,15 @@
 
 ### Screenshot
 
+### Solid Color
+
 <a href="https://nazmulhossain2905.github.io/auto-color-generator/">
   <img src='./images/Solid-Auto-Color-Generator.png' alt='Solid-Auto-Color-Generator' width='100%'>
 </a>
 
 ---
+
+### Gradient Color
 
 <a href="https://nazmulhossain2905.github.io/auto-color-generator/">
   <img src='./images/Gradient-Auto-Color-Generator.png' alt='Gradient-Auto-Color-Generator' width='100%'>
